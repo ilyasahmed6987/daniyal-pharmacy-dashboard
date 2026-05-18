@@ -1,0 +1,6 @@
+{
+  "name": "Daniyal Pharmacy",
+  "description": "A comprehensive, modern Pharmacy Management System with role-based JWT authentication, POS billing, inventory tracking, and real-time analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
